@@ -11,7 +11,7 @@ Plugin to monitor circular geofences using mobile devices. The purpose is to not
 
 *Geofences persist after device reboot. You do not have to open your app first to monitor added geofences*
 
-##Example applications
+## Example applications
 
 Check out our example applications:
 
